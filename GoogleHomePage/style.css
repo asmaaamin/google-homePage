@@ -1,0 +1,67 @@
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+#gSearch{
+    width: 500px;
+    height: 40px;
+    border: 2px solid rgb(221, 217, 217);
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Helvetica;
+    padding-left: 15px;
+}
+.topnav {
+  overflow: hidden;
+  font-family: Helvetica;
+  
+}
+
+.topnav a {
+  float: right;
+  color: #030303;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  color: rgb(46, 139, 175);
+}
+
+
+.leftFooter {
+  overflow: hidden;
+  font-family: Helvetica;
+  margin-top: 200px;
+}
+
+.leftFooter a {
+  float: left;
+  color: #030303;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.leftFooter a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.leftFooter a.active {
+  color: rgb(46, 139, 175);
+}
+
